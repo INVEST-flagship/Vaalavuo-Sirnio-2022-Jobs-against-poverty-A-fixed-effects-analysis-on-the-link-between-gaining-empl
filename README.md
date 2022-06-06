@@ -3,3 +3,7 @@
 ## Introduction
 
 Stata codes for statistical tests used in publication: Jobs against poverty: A fixed-effects analysis on the link between gaining employment and exiting poverty in Europe.
+
+## License
+
+Creative Commons Attribution 4.0 International

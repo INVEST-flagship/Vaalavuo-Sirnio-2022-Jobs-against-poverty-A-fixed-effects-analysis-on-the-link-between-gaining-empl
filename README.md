@@ -28,6 +28,9 @@ Outi Sirniö, PhD, is a senior researcher at the Finnish Institute for Health an
 
 <img width="968" alt="Screenshot 2022-08-11 at 12 08 49" src="https://user-images.githubusercontent.com/75479046/184100897-547ab817-5f94-4b44-aaee-dc2fd07e2383.png">
 
+## Cite as
+
+Maria Vaalavuo & Outi Sirniö (2022) Code repository for Jobs against poverty: a fixed-effects analysis on the link between gaining employment and exiting poverty in Europe. Zenodo. [Tähän sitten DOI linkki]
 
 ## License
 

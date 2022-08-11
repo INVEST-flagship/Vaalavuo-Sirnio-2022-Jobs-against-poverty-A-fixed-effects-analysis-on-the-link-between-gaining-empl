@@ -14,6 +14,12 @@ Complete Stata codes used are in separate .do -file.
 
 The full article can be found at: https://www.tandfonline.com/doi/full/10.1080/14616696.2022.2088821
 
+##About authors
+
+Maria Vaalavuo, PhD, is a research manager at the Finnish Institute for Health and Welfare. Her research interests include social and health inequalities, social sustainabil- ity, and comparative welfare state research. Her research has been published in Euro- pean Sociological Review, Journal of European Social Policy, and Labour Economics.
+
+Outi Sirniö, PhD, is a senior researcher at the Finnish Institute for Health and Welfare. She has widely studied intergenerational transmission processes and edu- cational inequalities. Her research has been published in European Sociological Review, Social Forces, and Advances in Life Course Research.
+
 ## Output examples
 
 <img width="577" alt="Screenshot 2022-08-11 at 12 07 26" src="https://user-images.githubusercontent.com/75479046/184100855-637eac3e-e45c-47aa-8718-c2c41ad42c63.png">

@@ -14,6 +14,11 @@ The full article can be found at: https://www.tandfonline.com/doi/full/10.1080/1
 
 ## Output examples
 
+<img width="577" alt="Screenshot 2022-08-11 at 12 07 26" src="https://user-images.githubusercontent.com/75479046/184100855-637eac3e-e45c-47aa-8718-c2c41ad42c63.png">
+
+<img width="573" alt="Screenshot 2022-08-11 at 12 08 22" src="https://user-images.githubusercontent.com/75479046/184100879-47c07125-ec3d-4d23-8bf4-e0723fe72e18.png">
+
+<img width="968" alt="Screenshot 2022-08-11 at 12 08 49" src="https://user-images.githubusercontent.com/75479046/184100897-547ab817-5f94-4b44-aaee-dc2fd07e2383.png">
 
 
 ## License

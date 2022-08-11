@@ -14,7 +14,7 @@ Complete Stata codes used are in separate .do -file.
 
 The full article can be found at: https://www.tandfonline.com/doi/full/10.1080/14616696.2022.2088821
 
-##About authors
+## About authors
 
 Maria Vaalavuo, PhD, is a research manager at the Finnish Institute for Health and Welfare. Her research interests include social and health inequalities, social sustainabil- ity, and comparative welfare state research. Her research has been published in Euro- pean Sociological Review, Journal of European Social Policy, and Labour Economics.
 

@@ -16,9 +16,9 @@ The full article can be found at: https://www.tandfonline.com/doi/full/10.1080/1
 
 ## About authors
 
-Maria Vaalavuo, PhD, is a research manager at the Finnish Institute for Health and Welfare. Her research interests include social and health inequalities, social sustainabil- ity, and comparative welfare state research. Her research has been published in Euro- pean Sociological Review, Journal of European Social Policy, and Labour Economics.
+Maria Vaalavuo, PhD, is a research manager at the Finnish Institute for Health and Welfare. Her research interests include social and health inequalities, social sustainability, and comparative welfare state research. Her research has been published in Euro- pean Sociological Review, Journal of European Social Policy, and Labour Economics.
 
-Outi Sirniö, PhD, is a senior researcher at the Finnish Institute for Health and Welfare. She has widely studied intergenerational transmission processes and edu- cational inequalities. Her research has been published in European Sociological Review, Social Forces, and Advances in Life Course Research.
+Outi Sirniö, PhD, is a senior researcher at the Finnish Institute for Health and Welfare. She has widely studied intergenerational transmission processes and educational inequalities. Her research has been published in European Sociological Review, Social Forces, and Advances in Life Course Research.
 
 ## Output examples
 

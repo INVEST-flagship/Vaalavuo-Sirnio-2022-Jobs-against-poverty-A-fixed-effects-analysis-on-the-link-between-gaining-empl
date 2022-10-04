@@ -4,6 +4,8 @@
 
 Maria Vaalavuo & Outi Sirniö
 
+[![DOI](https://zenodo.org/badge/500334921.svg)](https://zenodo.org/badge/latestdoi/500334921)
+
 ## Introduction
 
 Repository for the codes used for the analyses of Maria Vaalavuo & Outi Sirniö (2022) Jobs against poverty: a fixed-effects analysis on the link between gaining employment and exiting poverty in Europe. European Societies, Volume 24, Issue 3, June 2022.
